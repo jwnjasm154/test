@@ -20,15 +20,15 @@ This project involves training a model using MediaPipe to recognize various plan
 
 ```bash
 NatureLens/
-├── application/                                         # Kotlin code for the Android application
-├── plant_model_50_100ttv_20/             # trained model
-├── Data/                                                   # Dataset used
-├── NatureLens Documention.pdf          # Project documents
-├── Presentation.pptx                              # Project Presentation
-├── demo_video.mp4                               # Demo video of the application
-├── transformation.py                              # Script for generating images from dataset
-├── train_model.py                                   # Script for training the model
-└── README.md                                       # Project README file
+├── application/                         # Kotlin code for the Android application
+├── plant_model_50_100ttv_20/            # trained model
+├── Data/                                # Dataset used
+├── NatureLens Documention.pdf           # Project documents
+├── Presentation.pptx                    # Project Presentation
+├── demo_video.mp4                       # Demo video of the application
+├── transformation.py                    # Script for generating images from dataset
+├── train_model.py                       # Script for training the model
+└── README.md                            # Project README file
 ```
 ---
 
