@@ -1,4 +1,4 @@
-# Plant Recognition Application
+# NatureLens
 
 Welcome to the Plant Recognition Application project! This project, developed as part of a graduation requirement, leverages the power of MediaPipe for model training and Kotlin for application development to recognize plants and provide basic information about them.
 
